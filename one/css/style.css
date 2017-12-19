@@ -1,0 +1,65 @@
+.section-header {
+	margin-top: 40px;
+}
+.section-header strong {
+	display: block;
+	font-size: 20px;
+	font-weight: 400;
+}
+h1 {
+	line-height: 1.5;
+	font-size: 20px;
+	font-weight: 900;
+}
+.section-main {
+margin-top: 85px;
+}
+.form {
+	border: 5px solid #2727d9;
+	padding: 30px 20px;
+}
+.form input {
+	height: 50px;
+	margin-top: 10px;
+}
+.form p {
+	font-size: 20px;
+	margin-bottom: 40px;
+	font-weight: 900;
+}
+.main-btn {
+	background-color: #2727d9;
+	height: 60px;
+	margin-top: 10px;
+}
+.section-two {
+	margin-top: 145px;
+}
+.second-header h2 {
+	font-size: 20px;
+	font-weight: 900;
+}
+.features {
+	margin-top: 80px;
+}
+.features p {
+	margin-top: 25px;
+	font-weight: 900;
+}
+.three-header h2 {
+	margin-top: 95px;
+font-size: 20px;
+	font-weight: 900;
+}
+.second-btn {
+	background-color: #2727d9;
+	height: 60px;
+	margin-top: 100px;
+	display: block;
+}
+.clients {
+	margin-top: 100px;
+}
+.clients-main {
+	margin-bottom: 30px;
+}
