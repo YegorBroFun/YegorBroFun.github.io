@@ -1,2 +1,2 @@
-# YegorBroFun.github.io
+# YegorBroFun
 Мой первый сайт
